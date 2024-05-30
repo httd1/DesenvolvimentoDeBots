@@ -30,6 +30,7 @@ article: true
 - [Telegram Bot PHP SDK - PHP](https://telegram-bot-sdk.readme.io/docs)
 - [Telegram Bot Java Library - Java](https://github.com/rubenlagus/TelegramBots)
 - [Telegram Cli Client - PHP](https://github.com/zyberspace/php-telegram-cli-client)
+- [TelegramPhp - PHP](https://github.com/httd1/TelegramPhp)
 - [Telepot - JavaScript](https://github.com/mullwar/telebot)
 - [Telepot - Python](https://github.com/nickoala/telepot)
 - [Telethon - Python](https://github.com/LonamiWebs/Telethon)
